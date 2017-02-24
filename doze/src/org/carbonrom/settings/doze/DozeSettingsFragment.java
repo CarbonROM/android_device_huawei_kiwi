@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.settings.doze;
+package org.carbonrom.settings.doze;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -32,6 +32,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.Switch;
+
+import org.carbonrom.settings.doze.R;
 
 public class DozeSettingsFragment extends PreferenceFragment implements
         CompoundButton.OnCheckedChangeListener {

@@ -14,12 +14,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.cyanogenmod.settings.doze;
+package org.carbonrom.settings.doze;
 
 import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.android.settingslib.drawer.SettingsDrawerActivity;
+
+import org.carbonrom.settings.doze.R;
 
 public class DozeSettings extends SettingsDrawerActivity {
 
